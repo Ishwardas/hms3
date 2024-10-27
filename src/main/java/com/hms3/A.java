@@ -10,3 +10,9 @@ public class A {
 //        System.out.println(str.length());
     }
 }
+class B{
+    public static void main(String[] args) {
+        String str="rwioerueowirieu";
+        System.out.println(str.length());
+    }
+}
